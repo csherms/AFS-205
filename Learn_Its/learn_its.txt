@@ -1,0 +1,26 @@
+// Week 1 Web Infastructure
+
+Solomon Hykes -- created web server -- docker
+open
+80
+MPM = multi-processing-modules
+IDE = integrated development environment
+DNS = domain name system
+TCP = transmission control protocol
+httpd -v  --- check the apache version
+
+
+
+
+// Week 2 intro to Docker
+
+docker image pull nginx
+docker container help
+false
+docker version
+normalizer
+use a minimum of two dockerfiles per folder
+2013
+container image
+alpine linux
+dockerfile
