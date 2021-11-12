@@ -1,0 +1,2 @@
+127.0.0.1 - - [09/Nov/2021:20:52:56 -0700] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+127.0.0.1 - - [09/Nov/2021:20:59:09 -0700] "GET /wpad.dat HTTP/1.1" 404 153 "-" "WinHttp-Autoproxy-Service/5.1"

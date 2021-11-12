@@ -1,0 +1,1 @@
+2021/11/09 20:59:09 [error] 26484#20456: *6 CreateFile() "C:\Users\12082\OneDrive\Desktop\SCHOOL\nginx-1.20.1/html/wpad.dat" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /wpad.dat HTTP/1.1", host: "wpad.home"

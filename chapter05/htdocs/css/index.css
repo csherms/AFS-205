@@ -36,3 +36,14 @@ a:hover {
 #container {
   background-color: red;
 }
+
+p {
+  background-color: black;
+  color: red;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 10px;
+  padding: 80px;
+}
